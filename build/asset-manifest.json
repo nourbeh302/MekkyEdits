@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b8419319.css",
-    "main.js": "/static/js/main.d6cc73ad.js",
+    "main.css": "/static/css/main.8373ff65.css",
+    "main.js": "/static/js/main.246172a2.js",
     "static/media/DSC_0122.jpg": "/static/media/DSC_0122.65fe751179cc86a66cf4.jpg",
     "static/media/photos.avif": "/static/media/photos.d9124fe5e24f6c79a7a6.avif",
     "static/media/hero.avif": "/static/media/hero.b2a83005c5de1834cda1.avif",
@@ -10,11 +10,11 @@
     "static/media/Satoshi-Regular.woff": "/static/media/Satoshi-Regular.ca3da5fd2b609836ef69.woff",
     "static/media/Fontspring-DEMO-integralcf-regular.otf": "/static/media/Fontspring-DEMO-integralcf-regular.3e1109f2281ec92be428.otf",
     "index.html": "/index.html",
-    "main.b8419319.css.map": "/static/css/main.b8419319.css.map",
-    "main.d6cc73ad.js.map": "/static/js/main.d6cc73ad.js.map"
+    "main.8373ff65.css.map": "/static/css/main.8373ff65.css.map",
+    "main.246172a2.js.map": "/static/js/main.246172a2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b8419319.css",
-    "static/js/main.d6cc73ad.js"
+    "static/css/main.8373ff65.css",
+    "static/js/main.246172a2.js"
   ]
 }
